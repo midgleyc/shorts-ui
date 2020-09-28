@@ -23,6 +23,7 @@ const skinflute = ['Skinflute', '2 stars/lines, olfact', 383, '/images/adventure
 
 const bellPockets = [
 	['Sizzling desk bell', 'YR source', 517, '/images/adventureimages/ccs_daughter.gif'],
+	['Frost-rimed desk bell', 'Cold wads, nuggets, powder', 587, '/images/adventureimages/ccs_herald.gif'],
 	['Uncanny desk bell', '3 eldritch effluvium', 590, '/images/adventureimages/ccs_tentacle.gif'],
 	['Nasty desk bell', 'Goat cheese, milk', 653, '/images/adventureimages/ccs_disciple.gif'],
 	['Greasy desk bell', 'Star chart, 2 stars/lines', 533, '/images/adventureimages/ccs_astrologer.gif'],
